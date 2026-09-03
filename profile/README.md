@@ -1,3 +1,4 @@
+![Densa logo](Densa-Labs-Logo.png)
 # Densa Labs
 
 Densa Labs is an independent software lab developing experimental software, developer tools, and research projects.
