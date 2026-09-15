@@ -1,17 +1,18 @@
 ![Densa logo](Densa-Labs-Logo.png)
+
 # Densa Labs
 
-Densa Labs is an independent software lab developing experimental software, developer tools, and research projects.
+Densa Labs is an independent software lab building useful software, developer tools, and experimental projects.
 
 ## Current projects
 
-### Densa ADE
+### Benchmark Registry
 
-**Status:** In development
+A structured registry for AI models and their evaluation results.
 
-Densa ADE is an agentic development environment for structured, long-running software work.
+### Better ETA for ETS2
 
-[Repository](https://github.com/densa-labs/densa-ade) · [Project website](https://densa-labs.github.io/densa-ade/)
+A mod for Euro Truck Simulator 2 focused on improving estimated arrival times.
 
 ## Information
 
