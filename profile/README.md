@@ -14,9 +14,7 @@ Densa Labs is an independent software lab building useful software, developer to
   </picture>
 </p>
 
-## Benchmark Registry
-
-A structured registry for AI models and their evaluation results.
+[Benchmark Registry](https://github.com/densa-labs/benchmark-registry) is an ever-updating registry of AI models and their benchmark results.
 
 # Information
 
